@@ -1,0 +1,14 @@
+case,track,envelope,rms_e_steady,mean_e_steady,max_ratio,min_margin,max_abs_u,lambda_beta,topology,scenario
+C0_baseline,1,1,0.0363558,0.0326489,0.822552,0.177472,56.3444,0.01646,chain,offshore_nominal
+C1_hdiag_beta,1,1,0.0365879,0.0328742,0.823923,0.176078,61.5631,0.01646,chain,offshore_nominal
+C2_full,1,1,0.0366109,0.0328966,0.822208,0.177794,66.2106,0.0171181,chain,offshore_nominal
+C3_star,1,1,0.0457563,0.0408293,0.82,0.18,83.0595,0.0269486,star,offshore_nominal
+C4_complete,1,1,0.0473251,0.0424702,0.822135,0.177867,87.4323,0.0280788,complete,offshore_nominal
+C5_directed,1,1,0.042511,0.0379923,0.82,0.18,43.3546,0.0243971,directed,offshore_nominal
+C6_rough_sea,1,1,0.0533494,0.0477131,0.618334,0.39948,60.1541,0.0171181,chain,offshore_rough
+C7_no_chi,1,1,0.0365623,0.0328479,0.821641,0.178363,64.2172,0.0171181,chain,offshore_nominal
+C8_raw_error,1,1,0.0106531,0.00883464,0.843676,0.156354,69.4856,1,chain,offshore_nominal
+C9_decaying_diagnostic,0,1,0.00130618,0.00124195,0.528874,0.476065,1.92018e+08,0.0171181,chain,decaying_diagnostic
+C10_known_direction,1,1,0.0362657,0.0325373,0.6981,0.301908,86.1825,0.0171181,chain,offshore_nominal
+C11_known_projected,1,1,0.0362636,0.0325582,0.663772,0.351151,20,0.0171181,chain,offshore_nominal
+B1_no_damping,1,1,0.0363295,0.0326232,0.821313,0.178689,62.1854,0.0171181,chain,offshore_nominal

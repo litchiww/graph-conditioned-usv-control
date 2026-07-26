@@ -1,0 +1,31 @@
+MATLAB comment removal report
+
+Files checked: 25
+Comment tokens removed: 339
+Comment tokens remaining: 0
+
+   74  MAIN.m
+    4  run_all.m
+   13  src/usv_animate.m
+   52  src/usv_config.m
+    2  src/usv_direction_identification_audit.m
+    5  src/usv_math_audit.m
+   20  src/usv_metrics.m
+    9  src/usv_plots_3dof.m
+    6  src/usv_plots_3dof_closedloop.m
+    8  src/usv_plots_app.m
+   15  src/usv_plots_control.m
+    1  src/usv_plots_redesign.m
+    5  src/usv_plots_schematic.m
+    5  src/usv_redesign_candidate.m
+    3  src/usv_redesign_long_audit.m
+    2  src/usv_redesign_mc_audit.m
+    1  src/usv_redesign_sign_parallel.m
+    4  src/usv_redesign_solver_audit.m
+   38  src/usv_simulate.m
+   30  src/usv_simulate_3dof.m
+   32  src/usv_simulate_3dof_closedloop.m
+    1  src/usv_style.m
+    9  src/usv_validation_suite.m
+    0  REPRODUCE.m
+    0  VERIFY_PACKAGE.m

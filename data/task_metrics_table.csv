@@ -1,0 +1,6 @@
+case,path_rms_m,normalized_effort_per_m,min_separation_m,ctrl_smooth
+C0 hdiag/no damping,16.2366,0.0125196,600,85.0273
+C1 hdiag-beta,16.7918,0.0162526,600,97.0198
+C2 full (ours),16.8508,0.0170784,600,100.654
+C10 performance oracle,16.8575,0.0190904,600,50.8512
+C11 projected oracle,16.9264,0.00849779,600,18.7654

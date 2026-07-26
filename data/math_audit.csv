@@ -1,0 +1,7 @@
+test,value,tolerance,pass
+nussbaum_primitive,4.17093563677e-16,1e-9,1
+graph_cancellation,1.7763568394e-15,1e-10,1
+barrier_derivative,2.04945329686e-08,1e-7,1
+composite_regressor_layer1,0.999999997848,1,1
+composite_regressor_layer2,0.999999999893,1,1
+lyapunov_inequality,-0.00326991631679,1e-6,1

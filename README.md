@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/30381623/README.md)
 # Anonymized Reproducibility Package
 
 ## Associated manuscript

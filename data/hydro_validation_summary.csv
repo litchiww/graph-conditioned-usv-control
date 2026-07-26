@@ -1,0 +1,2 @@
+control_rate_hz,target_packet_loss,actual_packet_loss,guidance_filter_s,rms_window_start_s,rms_lateral_m,max_lateral_m,rms_heading_deg,max_heading_error_deg,min_separation_m,rms_rudder_deg,max_rudder_deg,yaw_saturation_count,control_channel_samples,yaw_saturation_duty_pct,mean_fleet_power_kw,energy_kwh
+20,0.05,0.050066,10,360,0.530488,30.2057,1.82846,38.1865,740.069,1.8108,25,110,43203,0.254612,2.79465,0.55893

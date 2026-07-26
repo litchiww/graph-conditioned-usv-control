@@ -1,0 +1,8 @@
+case,rms_e_steady,max_ratio,min_margin,max_abs_u,track,envelope
+B0 full (ours),0.0366109,0.822208,0.177794,66.2106,OK,OK
+B1 no damping,0.0363295,0.821313,0.178689,62.1854,OK,OK
+B2 hdiag-\beta,0.0365879,0.823923,0.176078,61.5631,OK,OK
+B3 raw-e,0.0106531,0.843676,0.156354,69.4856,OK,OK
+B4 no-\chi,0.0365623,0.821641,0.178363,64.2172,OK,OK
+B5 known direction,0.0362657,0.6981,0.301908,86.1825,OK,OK
+B6 projected oracle,0.0362636,0.663772,0.351151,20,OK,OK
